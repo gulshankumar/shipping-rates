@@ -1,2 +1,2 @@
-# shipping-rates
-Magento 2 Matrix Shipping Rates
+# Magento 2 Delivery Matrix Rates
+
